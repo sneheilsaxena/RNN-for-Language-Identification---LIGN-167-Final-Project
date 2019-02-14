@@ -21,8 +21,7 @@ Python 3.0, Anaconda Distribution, a Python IDE (we used Spyder), Pytorch
 
 ## Authors
 
-Sneheil Saxena
-Rachel Barrow
+Sneheil Saxena, Rachel Barrow
 
 ## License
 For now, our work may not be used elsewhere.
