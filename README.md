@@ -23,6 +23,9 @@ Python 3.0, Anaconda Distribution, a Python IDE (we used Spyder), Pytorch
 
 Sneheil Saxena, Rachel Barrow
 
+## Sources
+We referred to this tutorial for help: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+
 ## License
 At present, our work may not be used elsewhere.
 
